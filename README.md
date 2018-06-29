@@ -1,7 +1,6 @@
 # CocoaPodsTest
 CocoaPods的使用教程
 ### 更换源
-参考链接：https://blog.csdn.net/longshihua/article/details/53217511
 ```
 因为Ruby的软件源rubygems.org被屏蔽了，国内那无形之墙，我们需要来修改更换源，把源切换至ruby-china；
 网上大多数是使用的https://ruby.taobao.org的，这里不再建议使用的了，这是因为taobao Gems 源已停止维护，现由 ruby-china 提供镜像服务
@@ -88,3 +87,4 @@ end
 
 
 ```
+持续更新中......(参考链接：https://blog.csdn.net/longshihua/article/details/53217511)
